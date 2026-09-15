@@ -1,10 +1,10 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:00d2ff&height=180&section=header&text=SEU%20NOME%20AQUI&fontSize=42&fontColor=ffffff&desc=Sua%20frase%20de%20efeito%20aqui&descSize=18&descAlignY=65)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:00d2ff&height=180&section=header&text=Aline%20Aprelini&fontSize=42&fontColor=ffffff&desc=Data%20Engineer%20%26%20Analytics%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Airflow%20%C2%B7%20Power%20BI&descSize=16&descAlignY=65)
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USERNAME&label=PERFIL%20VIEWS&color=blue&style=for-the-badge" alt="perfil views" />
-<img src="https://img.shields.io/github/followers/SEU-USERNAME?label=FOLLOWERS&style=for-the-badge&color=grey" alt="followers" />
-<img src="https://img.shields.io/badge/AVAILABLE%20FOR-HIRE-brightgreen?style=for-the-badge" alt="available for hire" />
+<img src="https://komarev.com/ghpvc/?username=alineaprelini&label=PERFIL%20VIEWS&color=blue&style=for-the-badge" alt="perfil views" />
+<img src="https://img.shields.io/github/followers/alineaprelini?label=FOLLOWERS&style=for-the-badge&color=grey" alt="followers" />
+<img src="https://img.shields.io/badge/AVAILABLE%20FOR-OPPORTUNITIES-brightgreen?style=for-the-badge" alt="available" />
 
 </div>
 
@@ -12,8 +12,13 @@
 
 ## 👋 Sobre mim
 
-Escreva aqui 2-3 linhas sobre quem você é, o que você faz e o que te motiva.
-Ex: "Desenvolvedor(a) [área] apaixonado(a) por [tecnologia/tema], sempre buscando aprender e construir coisas novas."
+⭐ Transformo dados complexos em inteligência acionável. ⭐
+
+Com **4+ anos de experiência** em engenharia de dados e analytics, me especializo em construir pipelines robustos, automatizar processos e criar data warehouses que movem decisões estratégicas.
+
+Na **TruckPad**, implementei Apache Hop para orquestração de ETL, integrando dados de múltiplos bancos de produção em um Data Warehouse com modelagem dimensional em PostgreSQL — reduzindo o tempo de análise em ~30%.
+
+Na **Osten Group**, atuo do início ao fim: modelagem de dados, web scraping (Fenabrave, FIPE via APIs), automação de fluxos e gestão completa de dashboards em Power BI, incluindo um pipeline end-to-end que disponibiliza dados públicos em tempo próximo do real para análises estratégicas.
 
 ---
 
@@ -21,36 +26,52 @@ Ex: "Desenvolvedor(a) [área] apaixonado(a) por [tecnologia/tema], sempre buscan
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-INSTAGRAM)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEUNUMERO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aline.aprelini@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-souzaaprelini-ab4465127)
 
 </div>
 
 <div align="center">
 
-![Local](https://img.shields.io/badge/📍-SUA%20CIDADE%2C%20ESTADO-9b4de0?style=for-the-badge)
-![Formação](https://img.shields.io/badge/🎓-SUA%20FACULDADE-1e90ff?style=for-the-badge)
-![Nível](https://img.shields.io/badge/💼-SEU%20N%C3%8DVEL-f39c12?style=for-the-badge)
+![Local](https://img.shields.io/badge/📍-S%C3%A3o%20Paulo%2C%20Brasil-9b4de0?style=for-the-badge)
+![Formação](https://img.shields.io/badge/🎓-PUC%20Minas%20%7C%20Mackenzie-1e90ff?style=for-the-badge)
+![Nível](https://img.shields.io/badge/💼-Analista%20BI%20Pleno-f39c12?style=for-the-badge)
 
 </div>
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Especialização
 
 <div align="center">
 
-<!-- Troque/remova os badges pelas suas tecnologias reais. Veja mais em: https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+**ETL/ELT** · Apache Hop · Apache Airflow · Web Scraping · APIs · Data Warehouse · Modelagem Dimensional · Automação de Processos
+
+---
+
+### 📈 Resultados comprovados
+
+- 🔻 **-30%** no tempo de decisão via Data Warehouse otimizado (TruckPad)
+- 🔻 **-80%** de processamento manual via automação com Python (Osten Group)
+- ⚙️ Pipelines em produção gerenciando múltiplas fontes de dados
+
+---
+
+### 🎓 Formação
+
+- Pós-graduação em Engenharia de Dados — **PUC Minas** (2025 – 2027)
+- Bacharelado em Banco de Dados: Análise, Mineração e Engenharia de Dados — **Universidade Presbiteriana Mackenzie** (2023 – 2026)
 
 ---
 
@@ -58,18 +79,15 @@ Ex: "Desenvolvedor(a) [área] apaixonado(a) por [tecnologia/tema], sempre buscan
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=alineaprelini&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alineaprelini&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-### 🚀 Projetos em destaque
-
 <div align="center">
 
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=SEU-USERNAME&repo=NOME-DO-REPO-1&theme=radical)](https://github.com/SEU-USERNAME/NOME-DO-REPO-1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=SEU-USERNAME&repo=NOME-DO-REPO-2&theme=radical)](https://github.com/SEU-USERNAME/NOME-DO-REPO-2)
+**Vamos conversar?** Se você busca alguém que entenda dados como negócio, automatize processos críticos e construa arquiteturas que escalam, conecte comigo! 🚀
 
 </div>

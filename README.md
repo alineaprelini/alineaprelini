@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Aline%20Aprelini&fontSize=42&fontColor=00ff9c&fontAlignY=35&desc=%3E_%20Data%20Engineer%20%26%20Analytics&descSize=18&descAlignY=55&descColor=00ff9c)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Aline%20Aprelini&fontSize=42&fontColor=00ff9c&fontAlignY=35&desc=%3E_%20Data%20Engineer%20%2B%20Analytics&descSize=18&descAlignY=55&descColor=00ff9c)
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=SELECT+insight+FROM+dados;WHERE+decisao+%3D+%27estrategica%27;ETL+%7C+ELT+%7C+Pipelines+em+produ%C3%A7%C3%A3o;Python+%C2%B7+SQL+%C2%B7+Airflow+%C2%B7+PostgreSQL" alt="typing-svg" />
 
@@ -44,11 +44,11 @@ WHERE
 </div>
 
 ```
-┌─────────┐    ┌──────────────┐    ┌────────────────────────┐        ┌───────────────┐
-│  APIs   │───▶│  Apache Hop  │───▶ │ Data Warehouse       │ ───▶  │ Power BI │
-│  Scraping│   │  / Airflow   │      │ Medalion architeture │        │  Dashboards│
-└─────────┘    └──────────────┘      │ Lakehouse            │        └───────────────┘
-                                   └────────────────────────┘
+┌─────────┐    ┌──────────────┐    ┌────────────────────────┐    ┌───────────────┐
+│  APIs   │───▶│  Apache Hop  │───▶│ Data Warehouse         │───▶│  Power BI     │
+│ Scraping│    │  / Airflow   │    │ Medallion Architecture │    │  Dashboards   │
+└─────────┘    └──────────────┘    │ Lakehouse              │    └───────────────┘
+                                    └────────────────────────┘
         ETL/ELT · Modelagem Dimensional · Automação de Processos
 ```
 

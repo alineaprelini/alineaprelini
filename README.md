@@ -72,14 +72,8 @@ destaque:   >
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alineaprelini&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f0c29&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9)
+![Stats + Langs](https://gitglance-eight.vercel.app/api/combined?username=alineaprelini&style=terminal&theme=dracula&border_radius=8)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alineaprelini&theme=github-dark-blue&hide_border=true&background=0f0c29&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c)
-
-</div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alineaprelini&layout=compact&theme=github_dark&hide_border=true&bg_color=0f0c29&title_color=00ff9c&text_color=c9d1d9)
 
 </div>
 

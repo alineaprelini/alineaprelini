@@ -44,11 +44,11 @@ WHERE
 </div>
 
 ```
-┌─────────┐    ┌──────────────┐    ┌─────────────┐    ┌───────────┐
-│  APIs   │───▶│  Apache Hop  │───▶│ Data        │───▶│  Power BI │
-│  Scraping│   │  / Airflow   │    │ Warehouse   │    │  Dashboards│
-└─────────┘    └──────────────┘    │ (PostgreSQL)│    └───────────┘
-                                    └─────────────┘
+┌─────────┐    ┌──────────────┐    ┌────────────────────────┐        ┌───────────────┐
+│  APIs   │───▶│  Apache Hop  │───▶ │ Data Warehouse       │ ───▶  │ Power BI │
+│  Scraping│   │  / Airflow   │      │ Medalion architeture │        │  Dashboards│
+└─────────┘    └──────────────┘      │ Lakehouse            │        └───────────────┘
+                                   └────────────────────────┘
         ETL/ELT · Modelagem Dimensional · Automação de Processos
 ```
 

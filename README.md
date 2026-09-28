@@ -16,9 +16,10 @@
 -- sobre_mim.sql
 SELECT
     nome            = 'Aline Souza Aprelini',
-    cargo           = 'Data Engineer & Analytics',
+    Objetivo        = 'Data Engineer',
+    Cargo Atual     = 'Analista de BI',
     experiencia     = '4+ anos',
-    especialidade   = 'Pipelines robustos, automação e Data Warehouses',
+    especialidade   = 'Pipelines, Automações e Dashboards',
     impacto         = ARRAY['-30% tempo de análise', '-80% processamento manual']
 FROM
     carreira
@@ -34,11 +35,9 @@ WHERE
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff9c)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff9c)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff9c)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=00ff9c)
 ![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=00ff9c)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00ff9c)
-![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=for-the-badge&logo=googlebigquery&logoColor=00ff9c)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9c)
 
 </div>

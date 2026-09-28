@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=SELECT+insight+FROM+dados;WHERE+decisao+%3D+%27estrategica%27;ETL+%7C+ELT+%7C+Pipelines+em+produ%C3%A7%C3%A3o;Python+%C2%B7+SQL+%C2%B7+Airflow+%C2%B7+PostgreSQL" alt="typing-svg" />
 
-<img src="https://komarev.com/ghpvc/?username=alineaprelini&label=PROFILE+VIEWS&color=0f0c29&style=for-the-badge&labelColor=00ff9c" alt="Visitas" />
+<img src="https://komarev.com/ghpvc/?username=alineaprelini&label=PROFILE+VIEWS&color=0f0c29&style=for-the-badge&labelColor=00ff9c" alt="Visitas" /><br>
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff9c?style=for-the-badge&labelColor=0f0c29" alt="Status" />
 
 </div>

@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=alineaprelini&label=PROFILE+VIEWS&color=0f0c29&style=for-the-badge&labelColor=00ff9c" alt="Visitas" style="display: block; margin-left: auto;" />
 <br><br>
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff9c?style=for-the-badge&labelColor=0f0c29" alt="Status" />
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff9c?style=for-the-badge&labelColor=0f0c29" alt="Status" style="display: block; margin-left: auto;"/>
 
 </div>
 
